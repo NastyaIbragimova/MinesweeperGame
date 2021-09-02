@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MinesweeperGame</string>
+    <string name="restart">Играть снова</string>
+    <string name="win">Вы победили!</string>
+    <string name="lose">Вы проиграли!</string>
+    <string name="close">Выйти из игры</string>
+    <string name="score">"Счёт: "</string>
+    <string name="mine">"Мин на поле: "</string>
+</resources>
